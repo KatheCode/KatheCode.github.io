@@ -102,7 +102,7 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>katherine_cely@outlook.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>katherine_cely@outlook.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Remote position:</strong> <span>Available</span></li>
                 </ul>
               </div>
